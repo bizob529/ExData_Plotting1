@@ -6,10 +6,10 @@ Below are instructions for using the files in this repository to create the 4 pl
 
 
 ##Instructions
-*Download the four R scripts into your working directory: `plot1.R`, `plot2.R`, `plot3.R`, and `plot4.R`. 
-*Source each script into your R workspace using the syntax `source("plot1.R")`. Repeat for all 4 scripts.
-*After you source each file, you will be instructed to call a function with the syntax `getPlot3()`. 
-*Call all 4 functions to create all 4 plots.
+* Download the four R scripts into your working directory: `plot1.R`, `plot2.R`, `plot3.R`, and `plot4.R`. 
+* Source each script into your R workspace using the syntax `source("plot1.R")`. Repeat for all 4 scripts.
+* After you source each file, you will be instructed to call a function with the syntax `getPlot3()`. 
+* Call all 4 functions to create all 4 plots.
 
 
 ##Additional Notes
